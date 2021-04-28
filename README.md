@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d6ace6&height=300&section=header&text=✨YURI%20CHOI✨&fontSize=90&fontColor=ffffff))
+![header](https://capsule-render.vercel.app/api?type=waving&color=d6ace6&height=300&section=header&text=✨YURI%20CHOI✨&fontSize=90&fontColor=ffffff)
 
 
 <!--
